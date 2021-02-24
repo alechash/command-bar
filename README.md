@@ -7,3 +7,4 @@ Command Bar is a simple status bar app for macos that lists commands. It
 * tells you if the command is global or not
 
 ## Product Hunt
+https://www.producthunt.com/posts/command-bar
